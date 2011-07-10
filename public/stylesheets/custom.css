@@ -2,6 +2,14 @@
   width: 710px;
 }
 
+ul.users {
+  margin-top: 1em;
+}
+
+.users li {
+  list-style: none;
+}
+
 footer {
   text-align: center;
   margin-top: 10px;
